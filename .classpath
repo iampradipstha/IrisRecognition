@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="pradip/src"/>
+	<classpathentry kind="lib" path="pradip/libs/bij.jar"/>
+	<classpathentry kind="lib" path="pradip/libs/ij.jar"/>
+	<classpathentry kind="lib" path="pradip/libs/ImageEditor.jar"/>
+	<classpathentry kind="lib" path="pradip/libs/swt64.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="pradip/build/classes"/>
+</classpath>
